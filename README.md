@@ -15,14 +15,13 @@ It contains two applications:
 
 After cloning the repo, use the following commands to get up and running:
 
-    cd /path/to/sencha-themer-example-workspace
+    cd /path/to/sencha-themer-example-workspace/FeedViewer
     sencha app watch
 
-This will download the latest version of Ext JS into the workspace, compile the app, and start a web server so you can view it in your browser.
+This will download the latest version of Ext JS into the workspace, compile the app, and start a web server so you can view the FeedViewer app in your browser.
 
 By default the apps should now be available via:
 
 http://localhost:1841/FeedViewer
-http://localhost:1841/StarterApp
 
 * Note: If you are running sencha app watch elsewhere, your port may very.  Check the output of sencha app watch for the correct URL.
