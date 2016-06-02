@@ -1,6 +1,6 @@
 # Sencha Themer Example Workspace
 
-This is a workspace that you can use to try out the Private EA release of Sencha Themer.
+This is a workspace that you can use to try out the private EA release of Sencha Themer.
 
 It contains two applications:
 
@@ -22,6 +22,6 @@ This will download the latest version of Ext JS into the workspace, compile the 
 
 By default the apps should now be available via:
 
-http://localhost:1841/FeedViewer
+(http://localhost:1841/FeedViewer)
 
 * Note: If you are running sencha app watch elsewhere, your port may very.  Check the output of sencha app watch for the correct URL.
