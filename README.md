@@ -20,7 +20,8 @@ The workspace contains two applications:
         cd /path/to/sencha-themer-example-workspace/FeedViewer
         sencha app watch -fashion
 
-The FeedViewer app should now be available at:
+
+Since we're using Fashion, any changes you make to the FeedViewer app using Sencha Themer will immediately be reflected in your browser without reloading. The FeedViewer app should now be available at:
 
 [http://localhost:1841/FeedViewer](http://localhost:1841/FeedViewer)
 
