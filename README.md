@@ -1,27 +1,32 @@
-# Sencha Themer Example Workspace
+# Sencha Themer Demo
 
-This is a workspace that you can use to try out the private EA release of Sencha Themer.
+An example Ext JS workspace that you can use to try out the private EA release of Sencha Themer.
 
-It contains two applications:
+The workspace contains two applications:
 
- * StarterApp - this is the standard app that gets generated when you run sencha generate app.
+ * StarterApp - the standard app that gets generated when you run sencha generate app.
  * FeedViewer - a more complex app multi-tab that displays data from various news sites as well as the Sencha forums.
 
 ## Requirements
 
  * Sencha Cmd 6.2 EA
+ * Sencha Ext JS 6.0.2
 
 ## Setup
 
 After cloning the repo, use the following commands to get up and running:
 
+* Extract a copy of Ext JS 6.0.2 into a new directory called "ext" in the root of the workspace.
+* Compile and Launch the FeedViewer app
     cd /path/to/sencha-themer-example-workspace/FeedViewer
-    sencha app watch
+    sencha app watch -fashion
 
-This will download the latest version of Ext JS into the workspace, compile the app, and start a web server so you can view the FeedViewer app in your browser.
-
-By default the apps should now be available via:
+The FeedViewer app should now be available at:
 
 [http://localhost:1841/FeedViewer](http://localhost:1841/FeedViewer)
 
 * Note: If you are running sencha app watch elsewhere, your port may very.  Check the output of sencha app watch for the correct URL.
+
+## Styling the FeedViewer app using Sencha Themer
+
+See the [http://docs.sencha.com/themer/guides/walkthrough.html](Sencha Themer Walkthrough)
