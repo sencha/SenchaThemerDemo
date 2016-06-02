@@ -25,7 +25,7 @@ The FeedViewer app should now be available at:
 
 [http://localhost:1841/FeedViewer](http://localhost:1841/FeedViewer)
 
-* Note: If you are running sencha app watch elsewhere, your port may vary.  Check the output of sencha app watch for the correct URL.
+_Note: If you are running sencha app watch elsewhere, your port may vary.  Check the output of sencha app watch for the correct URL._
 
 ## Using Sencha Themer
 
