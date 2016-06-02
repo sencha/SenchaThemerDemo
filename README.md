@@ -5,7 +5,7 @@ An example Ext JS workspace that you can use to try out the private EA release o
 The workspace contains two applications:
 
  * StarterApp - the standard app that gets generated when you run sencha generate app.
- * FeedViewer - a more complex app multi-tab that displays data from various news sites as well as the Sencha forums.
+ * FeedViewer - a more complex app multi-tab app that displays data from various news sites and the Sencha forums.
 
 ## Requirements
 
@@ -25,7 +25,7 @@ The FeedViewer app should now be available at:
 
 [http://localhost:1841/FeedViewer](http://localhost:1841/FeedViewer)
 
-* Note: If you are running sencha app watch elsewhere, your port may very.  Check the output of sencha app watch for the correct URL.
+* Note: If you are running sencha app watch elsewhere, your port may vary.  Check the output of sencha app watch for the correct URL.
 
 ## Styling the FeedViewer app using Sencha Themer
 
