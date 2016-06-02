@@ -29,4 +29,4 @@ The FeedViewer app should now be available at:
 
 ## Styling the FeedViewer app using Sencha Themer
 
-See the [http://docs.sencha.com/themer/guides/walkthrough.html](Sencha Themer Walkthrough)
+See the [Sencha Themer Walkthrough]([http://docs.sencha.com/themer/guides/walkthrough.html)
