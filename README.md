@@ -18,8 +18,9 @@ After cloning the repo, use the following commands to get up and running:
 
 * Extract a copy of Ext JS 6.0.2 into a new directory called "ext" in the root of the workspace.
 * Compile and Launch the FeedViewer app
-    cd /path/to/sencha-themer-example-workspace/FeedViewer
-    sencha app watch -fashion
+
+        cd /path/to/sencha-themer-example-workspace/FeedViewer
+        sencha app watch -fashion
 
 The FeedViewer app should now be available at:
 
