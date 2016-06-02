@@ -27,6 +27,6 @@ The FeedViewer app should now be available at:
 
 * Note: If you are running sencha app watch elsewhere, your port may vary.  Check the output of sencha app watch for the correct URL.
 
-## Styling the FeedViewer app using Sencha Themer
+## Using Sencha Themer
 
-See the [Sencha Themer Walkthrough]([http://docs.sencha.com/themer/guides/walkthrough.html)
+See the [Sencha Themer Walkthrough](http://docs.sencha.com/themer/guides/walkthrough.html)
