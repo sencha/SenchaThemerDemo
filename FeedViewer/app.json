@@ -48,7 +48,8 @@
     "requires": [
         "font-awesome",
         "font-pictos",
-        "ux"
+        "ux",
+        "google"
     ],
 
     /**
