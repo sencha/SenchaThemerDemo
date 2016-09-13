@@ -9,12 +9,12 @@ The workspace contains two applications:
 
 ## Requirements
 
- * Sencha Cmd 6.2 EA
- * Sencha Ext JS 6.0.2
+ * Sencha Cmd 6.2+
+ * Sencha Ext JS 6.2+
 
 ## Setup
 
-1. Extract a copy of Ext JS 6.0.2 into a new directory called "ext" in the root of the workspace.
+1. Extract a copy of Ext JS 6.2 into a new directory called "ext" in the root of the workspace.
 2. Compile and Launch the FeedViewer app:
 
         cd /path/to/sencha-themer-example-workspace/FeedViewer
