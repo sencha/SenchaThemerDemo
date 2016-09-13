@@ -1,6 +1,6 @@
 # Sencha Themer Demo
 
-An example Ext JS workspace that you can use to try out the private EA release of Sencha Themer.
+An example Ext JS workspace that you can use to try out Sencha Themer.
 
 The workspace contains two applications:
 
