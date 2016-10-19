@@ -189,6 +189,11 @@
         {
             "path": "app.js",
             "bundle": true
+        },
+        {
+          "path": "http://localhost:8900/resources/themer/js/themerInspect.js",
+          "remote": true,
+          "bootstrap": true
         }
     ],
 
@@ -506,18 +511,12 @@
     "builds": {
         "classic": {
             "toolkit": "classic",
-            "theme": "theme-triton",
-            "sass": {
-                //"save": "classic/sass/save.json"
-            }
+            "theme": "test-inspecting"
         },
 
         "modern": {
             "toolkit": "modern",
-            "theme": "theme-triton",
-            "sass": {
-                //"save": "modern/sass/save.json"
-            }
+            "theme": "test-inspecting"
         }
     },
 

@@ -4,7 +4,8 @@
      */
     "apps": [
         "StarterApp",
-        "FeedViewer"
+        "FeedViewer",
+        "packages/local/test-inspecting/.sencha/temp/Themer"
     ],
 
     /**
