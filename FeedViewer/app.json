@@ -511,12 +511,12 @@
     "builds": {
         "classic": {
             "toolkit": "classic",
-            "theme": "test-inspecting"
+            "theme": "test-triton"
         },
 
         "modern": {
             "toolkit": "modern",
-            "theme": "test-inspecting"
+            "theme": "test-triton"
         }
     },
 
